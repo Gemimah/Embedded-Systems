@@ -3,7 +3,7 @@ import time
 import requests
 
 # Configuration
-FOLDER_PATH = r"C:\Users\pc\OneDrive\Pictures\Camera Roll"  # Replace with your folder path
+FOLDER_PATH = r"C:\Users\pc\OneDrive\Pictures\New folder (2)"  # Replace with your folder path
 UPLOAD_URL = "https://projects.benax.rw/?id=338"  # Replace with your upload URL
 UPLOAD_INTERVAL = 30  # Interval in seconds
 
